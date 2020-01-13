@@ -1,0 +1,17 @@
+{
+	"expectedCPU": {
+		"count": 5
+	},
+	"expectedDisk": {
+		"sizeBytesGB": 25,
+		"numberOfDisks": 10
+	},
+	"expectedNICS": {
+		"numberOfNICS": 26
+	},
+	"expectedRAM": 16,
+	"expectedSystemVendor": {
+		"name": "Dell Inc."
+	}
+
+}
